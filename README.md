@@ -16,7 +16,7 @@ Given an adjacency matrix
 
 and a degree constraint <img src="http://www.sciweavers.org/tex2img.php?eq=d%5Cle3&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="d\le3" width="47" height="17" />.
 
-We can find the exact solution shown below. 
+We can find the exact solution shown below.
 
 ![example](example.png)
 
