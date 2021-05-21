@@ -1,6 +1,6 @@
 # dc-mst-hssga
 
-This repository is a third-party implementation of [A hybrid genetic algorithm for the degree-constrained minimum spanning tree problem](https://doi.org/10.1007/S00500-019-04051-X). Homework 3 of Intelligent Optimization Methods, UCAS course [070105M05002H](http://jwxk.ucas.ac.cn/course/courseplan/184399).
+Third-party implementation of [A hybrid genetic algorithm for the degree-constrained minimum spanning tree problem](https://doi.org/10.1007/S00500-019-04051-X). Homework 3 of Intelligent Optimization Methods, UCAS course [070105M05002H](http://jwxk.ucas.ac.cn/course/courseplan/184399).
 
 求解带度约束的最小生成树问题的算法复现. 中国科学院大学现代智能优化方法第三次作业.
 
@@ -10,7 +10,7 @@ This repository is a third-party implementation of [A hybrid genetic algorithm f
 
 # Getting Started
 
-Open dc_mst_ga.py and run the example code.
+Open *dc_mst_ga.py* and run the example code.
 
 Given an adjacency matrix
 
