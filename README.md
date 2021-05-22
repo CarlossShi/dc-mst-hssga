@@ -10,7 +10,7 @@ Third-party implementation of [A hybrid genetic algorithm for the degree-constra
 
 # Getting Started
 
-Open *dc_mst_ga.py* and run the example code.
+Open `dc_mst_ga.py` and run the example code.
 
 Given an adjacency matrix
 
